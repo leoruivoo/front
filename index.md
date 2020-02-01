@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt">
     <head>
         <meta charset="UTF-8">
@@ -6,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>CRUD - Mentoria</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script src="main.js"></script>
+        <script src="/main.js"></script>
     </head>
 <body>
     <main>
